@@ -33,3 +33,10 @@ nohup python -u test.py > test.log 2>&1 &
 ## 注意
 
 由于钉钉目前添加了安全设置，必须要符三种安全设置（自定义关键词、加签、IP地址）中的一种。我这边选择的是自定义关键词，只需text中含有关键词即可。
+
+
+
+## 参考
+
+[钉钉官方文档](https://ding-doc.dingtalk.com/doc#/serverapi3/iydd5h)
+
